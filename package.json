@@ -1,0 +1,18 @@
+{
+  "name": "leapyear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "leapyear.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariamf1985/LeapYear"
+  },
+  "author": "María",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
